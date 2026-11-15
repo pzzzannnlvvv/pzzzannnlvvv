@@ -48,4 +48,4 @@ A four-layer framework (workflow · tool · knowledge · output) for controllabl
 
 ---
 
-*Based in Hong Kong · 中文 / English*
+*Based in Hong Kong · 中文 / 粤语 / English*
