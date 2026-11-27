@@ -7,6 +7,7 @@ I build LLM agents that can be supervised — constrained by design, auditable a
 > 
 > 📬 **Contact:** [zhongyuanhu@ln.hk](mailto:zhongyuanhu@ln.hk) (Email) · [GitHub](https://github.com/pzzzannnlvvv)  
 > 💬 **WeChat:** `13612683962` · **WhatsApp:** [+852 5444 1597](https://wa.me/85254441597)
+> 💼 **LinkedIn:** linkedin.com/in/hu-zhongyuan-539560430
 
 ---
 
